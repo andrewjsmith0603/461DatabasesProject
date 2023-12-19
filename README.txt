@@ -6,4 +6,4 @@ python notebook should be run from cells top to bottom and you may follow the re
 
 **THE TRANSACTIONS CODE IS IMPLEMENTED DIRECTLY INTO THE PYTHON NOTEBOOK**
 
-Thank you.
+Thank you
